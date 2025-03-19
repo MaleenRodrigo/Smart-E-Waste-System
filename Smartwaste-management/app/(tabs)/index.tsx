@@ -19,6 +19,7 @@ export default function HomeScreen() {
         <ThemedText type="title">Welcome mama chami!</ThemedText>
         <ThemedText type="title">Hi Savinda</ThemedText>
         <ThemedText type="title">Welcome I'm chami!</ThemedText>
+        <ThemedText type="title">Welcome I'm Maleen!</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
